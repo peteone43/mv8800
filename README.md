@@ -1,16 +1,31 @@
 # MV-8800 experimental firmware
 
-This repository contains the experimental cache-hit-before-flush build based on `MV8800_r12_clean.PRG`. Hardware speed and file-integrity testing are still pending. Keep this build only if the MV-8800 A/B test saves at least 0.5 seconds, all saved files match, and chkdsk passes.
+This repository contains the experimental cache-hit-before-flush build based on `MV8800_r12_clean.PRG`. Final owner-reported MV-8800 tests measured **about 1.5 seconds faster per save**, with project load unchanged. Same-name file comparisons and read-only CHKDSK passed. The save-as comparison has one unresolved field difference in `PROJECT_.MV0`, described below. `r12_clean` remains the owner's fallback build.
 
 **Current build: exp02.** Exp01 is superseded: it read the first byte of a 32-bit big-endian save flag and therefore did not activate the bypass. Exp02 reads the full flag with `mov.l`. The corrected 32-bit-store fixtures reject exp01; exp02 passes 12,193 guard and 18 integration cases.
+
+## Final hardware results
+
+Stopwatch results for InitProj 060, using same-name saves:
+
+| Build | Load | Three saves | Mean save |
+| --- | --- | --- | --- |
+| r12_clean | 15 s | 15 / 13.5 / 13.5 s | about 14 s |
+| exp02 | 15 s | 14 / 12 / 11.5 s | about 12.5 s |
+
+The roughly 1.5 s saving exceeds the 0.5 s acceptance threshold. All 505 files matched reference checksums after three exp02 same-name saves. In a save-as comparison with Song 1 tempo changed to 110 BPM, both projects contained 505 files: 504 were byte-identical, including `SONG01/SEQUENCE.MV0`. Only `PROJECT_.MV0` differed: the expected project-name letter and bytes `0x28–0x2A`. The latter field may reflect runtime state, but its meaning and run-to-run consistency are unconfirmed; no repeat exp02 save-as was performed. Read-only CHKDSK found no problems.
+
+See [the complete hardware report](experimental/cachehit-exp02/HARDWARE_RESULTS.md) for the exact file differences, the owner's code investigation, CHKDSK results, and the retained power-loss trade-off. No further tests or firmware changes were performed for this documentation update.
 
 ## Downloads
 
 - [Experimental PRG](experimental/cachehit-exp02/MV8800_r12_cachehit_exp02.PRG)
-- [ZIP with PRG and reports](experimental/cachehit-exp02/MV8800_r12_cachehit_exp02.zip)
+- [Original build ZIP with PRG and pre-hardware reports](experimental/cachehit-exp02/MV8800_r12_cachehit_exp02.zip)
 - [Every changed decoded address range and old/new bytes](experimental/cachehit-exp02/CHANGES.md)
 - [Scope, checks, and power-loss trade-off](experimental/cachehit-exp02/BUILD_NOTES.md)
 - [Final verification report](experimental/cachehit-exp02/final-verification.json)
+
+The ZIP, firmware, and build-verification JSON remain the original build artifacts. The final hardware results are recorded separately in `HARDWARE_RESULTS.md`.
 
 On a GitHub file page, use **Download raw file** to save the binary. The PRG must be exactly 4,194,304 bytes and have this SHA-256:
 
