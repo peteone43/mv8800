@@ -1,0 +1,17 @@
+{
+  "corrected_fixtures_reject_exp01": true,
+  "results": [
+    {
+      "test": "test_guard.py",
+      "exp01_rejected": true,
+      "observed_failure": "qemu-sh4eb-static: 2",
+      "reason": "Active flag is stored as 32-bit 1 (00 00 00 01); exp01 incorrectly reads its first byte as zero."
+    },
+    {
+      "test": "test_integration.py",
+      "exp01_rejected": true,
+      "observed_failure": "dirty_hit patched=True qemu-sh4eb-static: 2",
+      "reason": "Active flag is stored as 32-bit 1 (00 00 00 01); exp01 incorrectly reads its first byte as zero."
+    }
+  ]
+}

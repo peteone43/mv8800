@@ -1,0 +1,27 @@
+{
+  "independent_history_decoder_matches": true,
+  "undeclared_changed_bytes": 0,
+  "protected_byte_violations": 0,
+  "protected_bytes_checked": 1769,
+  "changed_unpacked_bytes": 123,
+  "changed_unpacked_ranges": 6,
+  "guard_emulation_cases_passed": 12193,
+  "actual_routine_integration_cases_passed": 18,
+  "header_identical": true,
+  "decompressed_bytes": 7181268,
+  "compressed_end_exclusive": "0x341521",
+  "prg_bytes": 4194304,
+  "trailer": "F6 81",
+  "sha256": "3304b86e90211808ba704d8a8a7480f36ba45e6f4e7ab8bb28ceaf8b50adead7",
+  "exp01_to_exp02_decoded_changes": [
+    {
+      "address": "0x8C608B23",
+      "old": "00",
+      "new": "02"
+    }
+  ],
+  "guard_flag_read": "0x8C608B22: 60 02 mov.l @r0,r0",
+  "emulation_flag_store_width_bits": 32,
+  "emulation_active_flag_memory_bytes": "00 00 00 01",
+  "corrected_fixtures_reject_exp01": true
+}

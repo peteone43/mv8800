@@ -1,0 +1,27 @@
+{
+  "machine": "QEMU big-endian SH CPU",
+  "cases": 12193,
+  "expected_dirty_hits": 6798,
+  "expected_original_path": 5395,
+  "exit_status": 0,
+  "instruction_bytes_identical_to_firmware_payload": true,
+  "test_only_literal_relocations": {
+    "0x8C608B18": "0x0C608B18",
+    "0x8C656DE0": "0x0C656DE0"
+  },
+  "flag_store_instruction": "mov.l r0,@r1 (32-bit big-endian)",
+  "active_value_one_memory_bytes": "00 00 00 01",
+  "checks": [
+    "32-bit save flag",
+    "file-write caller",
+    "hint bounds",
+    "dirty state",
+    "cache generation",
+    "volume id",
+    "unsigned LBA bounds and overflow",
+    "original success/failure propagation",
+    "fallback arguments",
+    "r10-r15 and PR preservation; r8/r9 loop integrity"
+  ],
+  "scope": "Guard machine code only; original routine replaced by an argument-checking sentinel in the test ELF. No Roland hardware is emulated."
+}
