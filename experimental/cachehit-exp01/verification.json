@@ -1,0 +1,23 @@
+{
+  "firmware_file": "MV8800_r12_cachehit_exp01.PRG",
+  "sha256": "085bfe4e76b78311eddaa0d87d2e1424dfb95b8b9992b566b8b8a5c06b8f796b",
+  "base_r12_sha256": "2e8555db2afa8799790a311ca4ffaf2399a7c0771e643b150137f0212d78c8da",
+  "file_bytes": 4194304,
+  "header_0_to_20043_identical": true,
+  "unpacked_bytes": 7181268,
+  "unpacked_sha256": "e3002f1fa169fb4f52a1a6a2daf03b9ae05b45d61a2b881dc6d6cbbb6386ab51",
+  "compressed_end_exclusive": "0x341521",
+  "limit": "0x3FFFF0",
+  "margin_bytes": 781007,
+  "last_two_bytes": "F6 81",
+  "last_16_bytes_identical": true,
+  "existing_r12_protected_unpacked_bytes": 1769,
+  "protected_byte_violations": 0,
+  "new_changed_bytes": 123,
+  "new_changed_ranges": 6,
+  "guard_address": "0x8C608B20",
+  "guard_bytes": 124,
+  "hook_literal_address": "0x8C657660",
+  "compressed_tokens": 2269681,
+  "round_trip_decoding_matches_exact_target": true
+}
