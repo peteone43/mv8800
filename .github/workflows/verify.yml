@@ -26,7 +26,7 @@ jobs:
           done
 
       - name: Compile Python scripts
-        run: python -m py_compile tools/*.py experimental/cachehit-exp02/*.py
+        run: python -m py_compile tools/*.py builds/r13/*.py
 
       - name: Check documentation links
         run: |

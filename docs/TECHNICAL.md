@@ -85,5 +85,5 @@ That is 505 files, which is why per-file overhead dominates save time.
 
 - Ghidra with GhidraMCP for disassembly and cross-references
 - Python scripts for LZ98 decode/encode, an SH-3 assembler and disassembler, and an instruction-level emulator for testing new code against the original routines
-- GNU binutils (SH-3, big-endian) and QEMU's SH emulator for the exp02 guard tests
+- GNU binutils (SH-3, big-endian) and QEMU's SH emulator for the r13 guard tests
 - An on-device sampling profiler (development builds only) and a read-only FAT32 capture script ([`tools/mv8800_meta_capture.py`](../tools/mv8800_meta_capture.py))

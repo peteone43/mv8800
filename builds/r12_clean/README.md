@@ -1,6 +1,6 @@
 # r12_clean
 
-Recommended build of the MV-8800 OS 1.01 speed patches.
+Stable build of the MV-8800 OS 1.01 speed patches. The latest build, [r13](../r13/), adds about 1.5 s faster saves on top.
 
 | | |
 | --- | --- |

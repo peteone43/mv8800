@@ -1,5 +1,5 @@
 
-/workspace/mv8800-analysis/experimental-build-exp02/r12-save-wrapper.bin:     file format binary
+r12-save-wrapper.bin:     file format binary
 
 
 Disassembly of section .data:

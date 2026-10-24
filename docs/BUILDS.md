@@ -10,7 +10,7 @@ The stock MD5 is `43cbfe509856e58b6b83b4a7ecd13fed`. The tools and builders in t
 
 ## Released builds
 
-### r12_clean (recommended)
+### r12_clean (stable)
 
 | | |
 | --- | --- |
@@ -22,24 +22,20 @@ The stock MD5 is `43cbfe509856e58b6b83b4a7ecd13fed`. The tools and builders in t
 
 The everyday build: all r12 speed changes with the development profiler removed. Contents are described in [R12_CHANGES.md](R12_CHANGES.md).
 
-### exp02 (experimental)
+### r13 (latest)
 
 | | |
 | --- | --- |
-| File | [`experimental/cachehit-exp02/MV8800_r12_cachehit_exp02.PRG`](../experimental/cachehit-exp02/MV8800_r12_cachehit_exp02.PRG) |
+| File | [`builds/r13/MV8800_r13.PRG`](../builds/r13/MV8800_r13.PRG) |
 | SHA-256 | `3304b86e90211808ba704d8a8a7480f36ba45e6f4e7ab8bb28ceaf8b50adead7` |
 | MD5 | `90faf8aebff34b3c85101b567fb7fdb3` |
 | Based on | r12_clean, all 1,769 r12 bytes unchanged |
 | Added | 123 changed bytes in six ranges (cache-hit guard) |
 | Measured | save about 14 s to about 12.5 s vs r12_clean, load unchanged |
 
-During a project save, skips the cache's preliminary "flush all dirty blocks" step when the block being written is already in the cache. Full notes: [BUILD_NOTES.md](../experimental/cachehit-exp02/BUILD_NOTES.md), every changed byte: [CHANGES.md](../experimental/cachehit-exp02/CHANGES.md), hardware report: [HARDWARE_RESULTS.md](../experimental/cachehit-exp02/HARDWARE_RESULTS.md). Read the power-loss trade-off in [KNOWN_ISSUES.md](KNOWN_ISSUES.md) first.
+During a project save, skips the cache's preliminary "flush all dirty blocks" step when the block being written is already in the cache. Full notes: [BUILD_NOTES.md](../builds/r13/BUILD_NOTES.md), every changed byte: [CHANGES.md](../builds/r13/CHANGES.md), hardware report: [HARDWARE_RESULTS.md](../builds/r13/HARDWARE_RESULTS.md). Read the power-loss trade-off in [KNOWN_ISSUES.md](KNOWN_ISSUES.md) first.
 
-exp02 can be rebuilt exactly from the stock and r12_clean files with the standard-library Python builder [`mv8800_build_exp02.py`](../experimental/cachehit-exp02/mv8800_build_exp02.py).
-
-### exp01 (superseded)
-
-SHA-256 `085bfe4e76b78311eddaa0d87d2e1424dfb95b8b9992b566b8b8a5c06b8f796b`. Its guard read only one byte of a 32-bit flag, so the speed-up never switched on. Kept for history only. See [SUPERSEDED.md](../experimental/cachehit-exp01/SUPERSEDED.md).
+r13 can be rebuilt exactly from the stock and r12_clean files with the standard-library Python builder [`build_r13.py`](../builds/r13/build_r13.py).
 
 ## Lineage
 
@@ -51,8 +47,7 @@ Roland OS 1.01 (stock)
          └─ v4   IDE bus timing
              └─ r1 to r12   profiler builds (development only)
                  └─ r12_clean   r12 speed changes, profiler removed
-                     ├─ exp01   cache-hit guard (superseded)
-                     └─ exp02   cache-hit guard, fixed
+                     └─ r13     cache-hit guard
 ```
 
 Intermediate builds are not included. Their checksums, for reference:
@@ -64,8 +59,8 @@ Intermediate builds are not included. Their checksums, for reference:
 | v3 | `1f62ee58388b7c298fc7e19fa0bfe09f9ca5c5fa3be053b623568ea4b2dbee65` | 179 |
 | v4 | `0206ded2ae1874abbf0f445b8a76487cf2ef77f577a325763f029a0fb1953122` | 181 |
 
-The r1 to r12 profiler builds add a 2 ms sampling profiler that writes timing files to the card. They were used to find where load and save time went (see [TESTING.md](TESTING.md)) and are not meant for normal use.
+The r1 to r12 profiler builds add a 2 ms sampling profiler that writes timing files to the card. They were used to find where load and save time went and are not meant for normal use. What each revision changed is in [REVISIONS.md](REVISIONS.md).
 
 ## Builds that were evaluated and not adopted
 
-Several "r13" builds produced by another assistant were tested in October 2026. They gave no measurable speed gain on the hardware, and the first versions also reverted part of r12 and changed the card read loop. None of them are included. See [HISTORY.md](HISTORY.md).
+Builds produced by another AI assistant (Google Gemini) were tested in October 2026. They gave no measurable speed gain on the hardware, and the first versions also reverted part of r12 and changed the card read loop. None of them are included. See [REVISIONS.md](REVISIONS.md).
