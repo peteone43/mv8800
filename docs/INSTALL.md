@@ -10,8 +10,8 @@
 
 | Build | When to use it |
 | --- | --- |
-| **r12_clean** | Everyday use. Recommended. |
-| exp02 | You want the extra (about 1.5 s) save speed and accept the power-loss trade-off described in [KNOWN_ISSUES.md](KNOWN_ISSUES.md). |
+| **r13** | Fastest saves (about 1.5 s faster than r12_clean). Holds some save data in memory slightly longer; see the power-loss note in [KNOWN_ISSUES.md](KNOWN_ISSUES.md). |
+| r12_clean | The most conservative patched build. |
 
 ## 2. Download and verify
 
@@ -21,14 +21,14 @@ On GitHub, open the `.PRG` file and click **Download raw file**. Then check it:
 - The SHA-256 must match [`SHA256SUMS.txt`](../SHA256SUMS.txt):
 
 ```text
-Windows:        certutil -hashfile MV8800_r12_clean.PRG SHA256
-macOS / Linux:  shasum -a 256 MV8800_r12_clean.PRG
+Windows:        certutil -hashfile MV8800_r13.PRG SHA256
+macOS / Linux:  shasum -a 256 MV8800_r13.PRG
 ```
 
 | Build | SHA-256 |
 | --- | --- |
+| r13 | `3304b86e90211808ba704d8a8a7480f36ba45e6f4e7ab8bb28ceaf8b50adead7` |
 | r12_clean | `2e8555db2afa8799790a311ca4ffaf2399a7c0771e643b150137f0212d78c8da` |
-| exp02 | `3304b86e90211808ba704d8a8a7480f36ba45e6f4e7ab8bb28ceaf8b50adead7` |
 
 Do not install a file whose checksum does not match. A renamed ZIP file, a partial download or a file saved by a browser as a web page will all fail this check.
 
@@ -47,7 +47,7 @@ In the tested setup (CF card in place of the internal hard drive), `MV8800.PRG` 
 
 ## Going back
 
-To return to the stock OS, or to switch between builds, install the other `MV8800.PRG` (Roland's original, r12_clean or exp02) with the same procedure. Projects are compatible in both directions because the project file format is not changed.
+To return to the stock OS, or to switch between builds, install the other `MV8800.PRG` (Roland's original, r12_clean or r13) with the same procedure. Projects are compatible in both directions because the project file format is not changed.
 
 ## If the instrument does not start after an update
 

@@ -1,4 +1,4 @@
-# Complete decoded-image changes: r12_clean to exp02
+# Complete decoded-image changes: r12_clean to r13
 
 Addresses are inclusive SH-3 runtime addresses; the OS base is 0x8C010000. Raw PRG differences from recompression are not listed, as requested. Exactly 123 bytes differ across these six ranges.
 

@@ -1,5 +1,5 @@
 
-/workspace/mv8800-analysis/experimental-build-exp02/guard.elf:     file format elf32-shbig-linux
+guard.elf:     file format elf32-shbig-linux
 
 
 Disassembly of section .text:

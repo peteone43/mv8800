@@ -107,7 +107,7 @@ def encode(payload):
     return bytes(out)
 
 def main():
-    require(len(sys.argv) == 3, 'Usage: python mv8800_build_exp02.py R12_CLEAN.PRG STOCK.PRG')
+    require(len(sys.argv) == 3, 'Usage: python build_r13.py R12_CLEAN.PRG STOCK.PRG')
     source = Path(sys.argv[1]).resolve()
     stock_path = Path(sys.argv[2]).resolve()
     raw, stock_raw = source.read_bytes(), stock_path.read_bytes()
@@ -157,10 +157,10 @@ def main():
               'protected_bytes_checked': len(protected), 'protected_byte_violations': 0,
               'changed_unpacked_bytes': 123, 'changed_unpacked_ranges': 6,
               'matches_verified_experimental_build': True, 'original_files_unchanged': True}
-    folder = Path(__file__).resolve().parent / 'MV8800_cachehit_exp02_output'
+    folder = Path(__file__).resolve().parent / 'MV8800_r13_output'
     require(not folder.exists(), 'Output folder exists; move it aside before retrying')
     folder.mkdir()
-    firmware = folder / 'MV8800_r12_cachehit_exp02.PRG'
+    firmware = folder / 'MV8800_r13.PRG'
     with firmware.open('xb') as f:
         f.write(result)
     (folder / 'CHANGES.json').write_text(json.dumps(changes, indent=2)+'\n', encoding='utf-8')

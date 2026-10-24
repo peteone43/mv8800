@@ -6,8 +6,8 @@ Every build was checked on three levels: the file itself, the speed on the hardw
 
 - The PRG is exactly 4,194,304 bytes, the header (bytes `0x0` to `0x20043`) is unchanged, the compressed stream ends before `0x3FFFF0`, and the 16-byte trailer (ending `F6 81`) is preserved.
 - The compressed stream is decoded again and compared with the intended program image: no change may exist that was not declared.
-- Every byte that differs from stock is listed and explained. For exp02, all 1,769 r12 bytes were also checked to be untouched.
-- New code was tested in an instruction-level emulator before flashing. exp02's guard passed 12,193 emulated cases and 18 integration cases that ran the original firmware routines with and without the guard. See [exp02 BUILD_NOTES.md](../experimental/cachehit-exp02/BUILD_NOTES.md) for the method and its limits.
+- Every byte that differs from stock is listed and explained. For r13, all 1,769 r12 bytes were also checked to be untouched.
+- New code was tested in an instruction-level emulator before flashing. r13's guard passed 12,193 emulated cases and 18 integration cases that ran the original firmware routines with and without the guard. See [r13 BUILD_NOTES.md](../builds/r13/BUILD_NOTES.md) for the method and its limits.
 
 ## 2. Speed
 
@@ -19,9 +19,9 @@ Test project *InitProj 060*: 505 files, 16 songs, 128 library patches, `SAMPLE__
 | --- | --- | --- | --- | --- | --- |
 | Stock OS 1.01 | about 20 s | about 35 s | | | about 35 s |
 | r12_clean | 15 s | 15 s | 13.5 s | 13.5 s | about 14 s |
-| exp02 | 15 s | 14 s | 12 s | 11.5 s | about 12.5 s |
+| r13 | 15 s | 14 s | 12 s | 11.5 s | about 12.5 s |
 
-The r12_clean and exp02 rows were measured back to back on October 23, 2026, with the same project, card and procedure (load once, then three saves under the same name). Stopwatch timing is accurate to about half a second per reading.
+The r12_clean and r13 rows were measured back to back on October 23, 2026, with the same project, card and procedure (load once, then three saves under the same name). Stopwatch timing is accurate to about half a second per reading.
 
 ### Profiler (development builds)
 
@@ -36,7 +36,7 @@ The r1 to r12 development builds contain a sampling profiler that records the ru
 | r11 | 12.8 s | 12.0 s | zero-fill skip for overwritten blocks, sample RAM loop, USB wait |
 | r12 | 12.3 s | 13.6 s | final profiler build (save varies by about 1.5 s between runs) |
 
-A matched load and save profile of r12, together with a read-only capture of the card's FAT and directory structures taken straight after, was the basis for the exp02 change.
+A matched load and save profile of r12, together with a read-only capture of the card's FAT and directory structures taken straight after, was the basis for the r13 change.
 
 ## 3. Data integrity
 
@@ -50,16 +50,16 @@ Speed means nothing if a single byte of a project changes, so every hardware tes
 
 The comparisons use [`tools/project_checksums.py`](../tools/README.md).
 
-### Results for exp02 against r12_clean
+### Results for r13 against r12_clean
 
 | Check | Result |
 | --- | --- |
 | Same-name saves, 505 files vs reference | all 505 identical |
-| Save-as, TA (r12_clean) vs TB (exp02) | 504 of 505 identical, including `SONG01.MV0/SEQUENCE.MV0` with the tempo change |
+| Save-as, TA (r12_clean) vs TB (r13) | 504 of 505 identical, including `SONG01.MV0/SEQUENCE.MV0` with the tempo change |
 | `PROJECT_.MV0` | name letter at `0x1D` (expected) and bytes `0x28` to `0x2A` (see below) |
 | chkdsk (read-only) | no problems found, 271 folders, 6,473 files |
 
-Bytes `0x28` to `0x2A` of `PROJECT_.MV0` hold a 32-bit value that the OS fills in when a save starts: it asks a system service for two numbers and stores the difference. It is a runtime status value, not project data. Other projects on the card hold unrelated values there (one is 0), and a project saved on another r12-based build has the same value as TA. A repeat exp02 save-as to confirm run-to-run behaviour has not been done. Full details: [HARDWARE_RESULTS.md](../experimental/cachehit-exp02/HARDWARE_RESULTS.md).
+Bytes `0x28` to `0x2A` of `PROJECT_.MV0` hold a 32-bit value that the OS fills in when a save starts: it asks a system service for two numbers and stores the difference. It is a runtime status value, not project data. Other projects on the card hold unrelated values there (one is 0), and a project saved on another r12-based build has the same value as TA. A repeat r13 save-as to confirm run-to-run behaviour has not been done. Full details: [HARDWARE_RESULTS.md](../builds/r13/HARDWARE_RESULTS.md).
 
 ## Reproducing the tests
 

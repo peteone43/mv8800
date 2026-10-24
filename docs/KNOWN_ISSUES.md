@@ -2,9 +2,9 @@
 
 ## Power loss during a save
 
-The stock OS flushes the file system after every file it saves. r12_clean flushes once at the end of a project save (see [R12_CHANGES.md](R12_CHANGES.md), change 4), and exp02 additionally delays one cache flush while files are written.
+The stock OS flushes the file system after every file it saves. r12_clean flushes once at the end of a project save (see [R12_CHANGES.md](R12_CHANGES.md), change 4), and r13 additionally delays one cache flush while files are written.
 
-If power is lost in the middle of a project save, more of that save can be missing or incomplete than with the stock OS, and slightly more with exp02 than with r12_clean. The logical effect is not limited by the cache size, because folder entries can be affected as well as file data. Projects that were already saved completely are not affected.
+If power is lost in the middle of a project save, more of that save can be missing or incomplete than with the stock OS, and slightly more with r13 than with r12_clean. The logical effect is not limited by the cache size, because folder entries can be affected as well as file data. Projects that were already saved completely are not affected.
 
 Let saves finish before switching off. This applies to every build, including stock.
 
@@ -19,9 +19,9 @@ All hardware testing was done on one MV-8800 running OS 1.01 with a CF card in p
 
 Reports from other machines are welcome.
 
-## `PROJECT_.MV0` runtime field (exp02 save-as test)
+## `PROJECT_.MV0` runtime field (r13 save-as test)
 
-In the save-as comparison between r12_clean and exp02, bytes `0x28` to `0x2A` of `PROJECT_.MV0` differed. The OS fills this 32-bit field when a save starts, with the difference of two values it requests from a system service. It looks like a runtime status value rather than project data: other projects hold unrelated values there, and a project saved on another r12-based build has the same value as the r12_clean save. Whether exp02 produces the same value on every save-as has not been tested yet.
+In the save-as comparison between r12_clean and r13, bytes `0x28` to `0x2A` of `PROJECT_.MV0` differed. The OS fills this 32-bit field when a save starts, with the difference of two values it requests from a system service. It looks like a runtime status value rather than project data: other projects hold unrelated values there, and a project saved on another r12-based build has the same value as the r12_clean save. Whether r13 produces the same value on every save-as has not been tested yet.
 
 ## Memory use
 
