@@ -1,0 +1,2531 @@
+{
+ "folder": "InitProj 060.PRJ",
+ "file_count": 505,
+ "files": {
+  "LIBRARY/CHORUS__.MV0": {
+   "size": 3536,
+   "md5": "983f3e35b6ff49be42d2350bfacffacd",
+   "sha256": "651ddb0be073bdd4343db24abacac035cb26345394fe7142d7b340d94446f042"
+  },
+  "LIBRARY/CLIP____.MV0": {
+   "size": 32,
+   "md5": "cb4d03da242f60f2ee78e901bb7a4989",
+   "sha256": "47931ff5c991ceec3f8ee84c5159defdefaf279ad8623dcfd9fce72183aa1b5a"
+  },
+  "LIBRARY/MFX_____.MV0": {
+   "size": 26836,
+   "md5": "4e0acc20e1eefb2c076e2f34cc9f245d",
+   "sha256": "3fcd2f5fb69b7f9d788f90319857c453fceb791be84b6e542afcb56d2b8bab8c"
+  },
+  "LIBRARY/MTK_____.MV0": {
+   "size": 4536,
+   "md5": "96c13453755f169c346227eb2ff3b7d1",
+   "sha256": "cafb3a6cd6c17c5d5bafc52e0b9c5436625367a3089b67e0f8871844d183cd78"
+  },
+  "LIBRARY/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "LIBRARY/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "LIBRARY/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "LIBRARY/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "LIBRARY/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "LIBRARY/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "LIBRARY/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "LIBRARY/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "LIBRARY/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "LIBRARY/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "LIBRARY/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "LIBRARY/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "LIBRARY/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "LIBRARY/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "LIBRARY/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "LIBRARY/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "LIBRARY/PATCH017.MV0": {
+   "size": 15906,
+   "md5": "247d96a47151ebe39c8bcad4cd542fb4",
+   "sha256": "b88b1419db415a01d20ccc2d03610c1e598e01c65f437c6a2f9c54ba38cd58fe"
+  },
+  "LIBRARY/PATCH018.MV0": {
+   "size": 15906,
+   "md5": "0d1b8bd81c7026b8e0e45f9a89489efa",
+   "sha256": "01f4fa56d3b641a268e8586416f082ce9043a2a1d5e0561851dd3c695f9d154d"
+  },
+  "LIBRARY/PATCH019.MV0": {
+   "size": 15906,
+   "md5": "423d0cd49d25b1cd4d916795f4cc121e",
+   "sha256": "f276625faf59b1663834c34e301381689db2618ca17073f0d6c28c3f1116a634"
+  },
+  "LIBRARY/PATCH020.MV0": {
+   "size": 15906,
+   "md5": "95c2d940b2b2cf03c6aa68216eddd3bb",
+   "sha256": "d5c0505a01eb5840cfa22ad870f73f434343eb1af6f998f7f750d4f721d2ba2f"
+  },
+  "LIBRARY/PATCH021.MV0": {
+   "size": 15906,
+   "md5": "5b1646307b5180dc09d369a20db6e952",
+   "sha256": "6dd5bad936d6560407725cf1ffdb952a5a250241fdb1222ca0980dddfe3a8a6a"
+  },
+  "LIBRARY/PATCH022.MV0": {
+   "size": 15906,
+   "md5": "8a41a88f080838d83b73a9a5b807845c",
+   "sha256": "111effe08ee79946a36692d65b079e9ffb7e38987ef56fc3453dc5e8dc5ff0b1"
+  },
+  "LIBRARY/PATCH023.MV0": {
+   "size": 15906,
+   "md5": "a974e65443ffc83ae82fe0e8d132d57e",
+   "sha256": "fe025847d15e5bfd6527186f70c226f3596bca68a6ec78cf9ae09b4f1f993acd"
+  },
+  "LIBRARY/PATCH024.MV0": {
+   "size": 15906,
+   "md5": "2bac0b378280f54b7299c4b44c8aefa6",
+   "sha256": "3abb8682a45c1c8bff658655e30ebbff8396089279aba8d07b333ae6262be788"
+  },
+  "LIBRARY/PATCH025.MV0": {
+   "size": 15906,
+   "md5": "554a6dd17fa589f3932bfb25af2dc275",
+   "sha256": "09165c13889b02cc103c2c1ded30d80c411a0af9ef55d8ca1f066135e0ed57ec"
+  },
+  "LIBRARY/PATCH026.MV0": {
+   "size": 15906,
+   "md5": "734bd7ea724f454a3b9d8eb871743a6a",
+   "sha256": "ca830618d5471a26767cafb351f16ad595ba8b224e8a1d087a3b8d20a01eedd5"
+  },
+  "LIBRARY/PATCH027.MV0": {
+   "size": 15906,
+   "md5": "ce8adac81158e5a82a91e9ec3760ee50",
+   "sha256": "5a2fa9fa7479c65570bfd28b97eff2e21337ec80329b87cb3bed695c20ef1cf4"
+  },
+  "LIBRARY/PATCH028.MV0": {
+   "size": 15906,
+   "md5": "2d0661ad9a179744f3a79cb4e26662d0",
+   "sha256": "0b58ae869b1d01ff482fda3a2e8c84d00f9a9f9470c95b42c3e800e182164339"
+  },
+  "LIBRARY/PATCH029.MV0": {
+   "size": 15906,
+   "md5": "e4c90c7b9836e4add3d5b885d69c250a",
+   "sha256": "ccdb1a45e77732acab3e866589756c1f7c14d83876bd66bbf5e4269bdb467032"
+  },
+  "LIBRARY/PATCH030.MV0": {
+   "size": 15906,
+   "md5": "e03d91627bed53de623645060b5be680",
+   "sha256": "ba7564a301d4a75d688676a431289a8eb924dde5827403a7ec5dfb8f124c741e"
+  },
+  "LIBRARY/PATCH031.MV0": {
+   "size": 15906,
+   "md5": "12b9992781876044759e28df86284ca2",
+   "sha256": "9825e80c61df26314e9c7c55c82ffdf78cf97dd3e9762eb8d94f60a4c1cec669"
+  },
+  "LIBRARY/PATCH032.MV0": {
+   "size": 15906,
+   "md5": "d01e01d0d0685977723207ea80bf2ebf",
+   "sha256": "438ab1ef0eeab91e6a6d8ce9ba7d513304b1602767d3c33490a99944f71bf505"
+  },
+  "LIBRARY/PATCH033.MV0": {
+   "size": 15906,
+   "md5": "9c533f8bd3e4b895358f23316671b7ee",
+   "sha256": "4444d7f73b88b89467cc12fd337101989a99fd650d3ad23178f93794f40cdd7d"
+  },
+  "LIBRARY/PATCH034.MV0": {
+   "size": 15906,
+   "md5": "28f73cd687abcd7d29173cbea75017a2",
+   "sha256": "d82e0091cbc5997ef107737b26ce12cb4d3c07e42f80b22bc5f15e0f6fb6f645"
+  },
+  "LIBRARY/PATCH035.MV0": {
+   "size": 15906,
+   "md5": "2954d6d0dc9a96635e59ab5c6b388d84",
+   "sha256": "9d7c1d9e9f6985ef35a2ddf99b073728b24c8e741ea4578899c12736ec2bb97a"
+  },
+  "LIBRARY/PATCH036.MV0": {
+   "size": 15906,
+   "md5": "c636a0295a9e563020c95819f4b1fcd9",
+   "sha256": "c8fcfd175a2b167fae66944d71ca3dd245f15cb50e559d4c031e9cea1e7cd6c6"
+  },
+  "LIBRARY/PATCH037.MV0": {
+   "size": 15906,
+   "md5": "d8d2246eedde009d0e619ea612ead6e1",
+   "sha256": "f962af7e7b09e24b99ac1af1c69e37c38a9bae1577353cba4a2323c3b2e7b726"
+  },
+  "LIBRARY/PATCH038.MV0": {
+   "size": 15906,
+   "md5": "96ec039c1470927055944b599fc497be",
+   "sha256": "965e99b723e4dd70d6383a48821028dd7f2ce2d29d6087e6cdd4b3e5d1503fdd"
+  },
+  "LIBRARY/PATCH039.MV0": {
+   "size": 15906,
+   "md5": "08844b915e4c04670f6e3febdc020501",
+   "sha256": "8b8ff5e6c4d2fd363239920bed41189c8bf0b71331f6a08affd0687263f2e8ec"
+  },
+  "LIBRARY/PATCH040.MV0": {
+   "size": 15906,
+   "md5": "36dbf7bcffe2610b003fa15b89607a24",
+   "sha256": "47c5791e03e391874b19e88d40304caa19bc0981d5425de1038712d7274ae4d8"
+  },
+  "LIBRARY/PATCH041.MV0": {
+   "size": 15906,
+   "md5": "55000c6ef58d5a616b59b6f6c098759e",
+   "sha256": "ffd4b48af82e0cba9bac85fde5a6fc59110f65b9e17dc497a01315c62e95adfd"
+  },
+  "LIBRARY/PATCH042.MV0": {
+   "size": 15906,
+   "md5": "51b330a227f4a876e26dff8278e178af",
+   "sha256": "dcbc0679a900d151af1bf00c9198ccd4d39d7c06dbf903eba37134820d90a401"
+  },
+  "LIBRARY/PATCH043.MV0": {
+   "size": 15906,
+   "md5": "0af658f51e0b7031301b2f8eeba60fc3",
+   "sha256": "44adaf0bd3d041e250f928e78e95fb80f3376681bfcd8ceba8046f0e9c367d4f"
+  },
+  "LIBRARY/PATCH044.MV0": {
+   "size": 15906,
+   "md5": "3e84b5ea3726769051a5c446ce5589bc",
+   "sha256": "3ec7976369a23806dc0ff46dd9ab6ce316338afafc385e4858798df14eb4a3de"
+  },
+  "LIBRARY/PATCH045.MV0": {
+   "size": 15906,
+   "md5": "a6c8c4e43a79990ed1c18b61c691b608",
+   "sha256": "76a445d9a88e88c42751e730bc1e33af1ca2c3996f2a8afee20e57228f9efd83"
+  },
+  "LIBRARY/PATCH046.MV0": {
+   "size": 15906,
+   "md5": "afda25b3c4bb900ca1778d4120f6021a",
+   "sha256": "2b68d85b754de3fd75a40dc809403871c513159933827606c2326274abf3e3f6"
+  },
+  "LIBRARY/PATCH047.MV0": {
+   "size": 15906,
+   "md5": "fc9a37cc41f6b009b18c67e5bedc71c3",
+   "sha256": "aafc8ac59c8bacbcd9b5f1fc09fc8659dd1590a4e36cb928007bb82ee67fff7b"
+  },
+  "LIBRARY/PATCH048.MV0": {
+   "size": 15906,
+   "md5": "0a65d4392570198882571806f5edc50e",
+   "sha256": "8b60551c7ec3200a5e2ba24719b6ffcf36baf3f94c9e86f2bcfaea2e1281fafe"
+  },
+  "LIBRARY/PATCH049.MV0": {
+   "size": 15906,
+   "md5": "b01faa8c9ea545b8559afee6bde4fb4d",
+   "sha256": "ded7cbbb657bcbedd0c0b6d89142cac3f6e3814cda59dc8279ea78f466abbceb"
+  },
+  "LIBRARY/PATCH050.MV0": {
+   "size": 15906,
+   "md5": "46123e4e9c53bf74d166cd54d8cd0e40",
+   "sha256": "cdf6cf5010f42dc69989248b766237cfa4b7da70e31b9d69f359626720710d9c"
+  },
+  "LIBRARY/PATCH051.MV0": {
+   "size": 15906,
+   "md5": "9f921af32d07c2e6c6e49844f20e0165",
+   "sha256": "d62b1150912d1a63d26dd912de42818b6916c614026147c7b60b317efc42493d"
+  },
+  "LIBRARY/PATCH052.MV0": {
+   "size": 15906,
+   "md5": "ab9383f1e315de2aabded79125abe5c8",
+   "sha256": "e408239d24373e0c8807eed0bd4633abe7a7d8232b9a8a226670807e0e025264"
+  },
+  "LIBRARY/PATCH053.MV0": {
+   "size": 15906,
+   "md5": "875c0d555f9fd0a61aa75b3af1dcdb5b",
+   "sha256": "633db1b76377c4cb21f39de40ee70dc8f50a6316c597086f755744a28130956d"
+  },
+  "LIBRARY/PATCH054.MV0": {
+   "size": 15906,
+   "md5": "0924736f37f10ba67608c417604d9009",
+   "sha256": "a5dc4962c39c38ec484e842fb13b54ef66150512934aa22e32a5cbd308fb133c"
+  },
+  "LIBRARY/PATCH055.MV0": {
+   "size": 15906,
+   "md5": "c9a7d3cc362748781a78bf362a6cd6dc",
+   "sha256": "a9382bfad94cc0e9ae812b15957b8186b9ff05e3c90482e7abc3c511f464d411"
+  },
+  "LIBRARY/PATCH056.MV0": {
+   "size": 15906,
+   "md5": "8e24d70e27fb1e7ce6157923c3040d11",
+   "sha256": "4d072371d8f3764112d04ca8b1843743656ba5630463fe06a766c7865c551a5a"
+  },
+  "LIBRARY/PATCH057.MV0": {
+   "size": 15906,
+   "md5": "4c4df21dfcac2d598f86f6222e765722",
+   "sha256": "f2e4250b52cad4e175aad1290aa429038337167c1817a4de4a5ff3fb2852f055"
+  },
+  "LIBRARY/PATCH058.MV0": {
+   "size": 15906,
+   "md5": "e8f90882d8b84a432699274ad307a49f",
+   "sha256": "509ce5a55ca363c18ea9ca6793a5ae2032ef9695094ade1520c9d876e369c999"
+  },
+  "LIBRARY/PATCH059.MV0": {
+   "size": 15906,
+   "md5": "0fc9683d412667a09f627413aa6a0064",
+   "sha256": "d335f259c603047c6b11fd6fed55387ad3c9ac315657a7351a97baa0c006042f"
+  },
+  "LIBRARY/PATCH060.MV0": {
+   "size": 15906,
+   "md5": "7e11fb1a1cafa3ba4707f02cf3348557",
+   "sha256": "69df29c6369ceef6fadebb37dc38095bb4d981dff1c2427867c798716d890b93"
+  },
+  "LIBRARY/PATCH061.MV0": {
+   "size": 15906,
+   "md5": "e9bb983aa4b9e02f94236c1d47ba1dcd",
+   "sha256": "a7ba9e79cfcdbeb235a3e93fab231193a48fad7fcafaeae9b446ff5b9bc17ab1"
+  },
+  "LIBRARY/PATCH062.MV0": {
+   "size": 15906,
+   "md5": "73b87b23a8253ea1b2cec5644a766643",
+   "sha256": "529fc88d838c7f5f4d9f57f5cf6d541bd9166ca4da1a098146a4838ec800c501"
+  },
+  "LIBRARY/PATCH063.MV0": {
+   "size": 15906,
+   "md5": "872969d848b2d2522caeed1efe6fedfd",
+   "sha256": "67d67eea0a411e7fbda51bd1ab19a48098808f41d3d2a6590d96009412c18c43"
+  },
+  "LIBRARY/PATCH064.MV0": {
+   "size": 15906,
+   "md5": "d4872dd3327087c94b232de57995d970",
+   "sha256": "aa2041aef57fdc9b9275114d9b609922943e296631d70bfb242fcc2c670f52a4"
+  },
+  "LIBRARY/PATCH065.MV0": {
+   "size": 15906,
+   "md5": "96b139225b8e416ebfcbdd95ace0ce6b",
+   "sha256": "d6801dfa190e61b545787a4227c7f94b28a582c9241dcb8161baa3e34faa7ee4"
+  },
+  "LIBRARY/PATCH066.MV0": {
+   "size": 15906,
+   "md5": "2953a68c04f00e4521264bf7b5226314",
+   "sha256": "96382eb15a1013f3b6311b9950abd2f7d8572f3ee90621febd693296309a5c6c"
+  },
+  "LIBRARY/PATCH067.MV0": {
+   "size": 15906,
+   "md5": "584767b22cbf3146d61175ffc999113e",
+   "sha256": "3361d5e2c72ccb7147a07c140e3ff21f17eda41d42746319571d81d66b81f230"
+  },
+  "LIBRARY/PATCH068.MV0": {
+   "size": 15906,
+   "md5": "e16fa37362885916a8e1f466a65f0447",
+   "sha256": "18401a4bb1fb3507d76c914f2b97e4ee9a52c6532654c496dfddd91e5002aa69"
+  },
+  "LIBRARY/PATCH069.MV0": {
+   "size": 15906,
+   "md5": "45e64c36a33001fcdf7dd48e9ec77f2d",
+   "sha256": "7ec9da7c7fe4af36501e3b51838aabda3863115bf60ac13c2cea913f5ab3e335"
+  },
+  "LIBRARY/PATCH070.MV0": {
+   "size": 15906,
+   "md5": "1c1769389046439abe0a0fef15db187d",
+   "sha256": "9f0a70d4872af195018a1ab18e22098b15efde5d62d8337d074eb3eb60559e23"
+  },
+  "LIBRARY/PATCH071.MV0": {
+   "size": 15906,
+   "md5": "125aa8c65e8f6f0310504d591b63703b",
+   "sha256": "10f2e103ba939bb54fbb375bfd6a96b682001b0bff6385eb2d77df70bf23c86d"
+  },
+  "LIBRARY/PATCH072.MV0": {
+   "size": 15906,
+   "md5": "214c50ea51629a77419254134249a7b0",
+   "sha256": "b79673577821785f75bd47b820a0e5043b48ffe31b82df1b1f1fc5726b71e198"
+  },
+  "LIBRARY/PATCH073.MV0": {
+   "size": 15906,
+   "md5": "efba93d0360378252f8a5cde949bdb10",
+   "sha256": "b95345b2ca65327caf7ad846d1c84d4c1ea12f1aeb14472717b187c31049fcc1"
+  },
+  "LIBRARY/PATCH074.MV0": {
+   "size": 15906,
+   "md5": "11d4b4e43a359ac878df12325b1a9290",
+   "sha256": "4217177292e07a20770e626f62810f8a71f5f43c2bfe14635722b5dada5ef769"
+  },
+  "LIBRARY/PATCH075.MV0": {
+   "size": 15906,
+   "md5": "9a7c9b834a07f8d8d4d89dd21d59e229",
+   "sha256": "f56395b9813dbacc44ece0e257e1db49c68a7877eea49523c5c6d651dd1d3646"
+  },
+  "LIBRARY/PATCH076.MV0": {
+   "size": 15906,
+   "md5": "a12438fb2f284118d6b585c7df36cf67",
+   "sha256": "26fc6e1d8ee20d0182763a418fa613a2435d42f60b79d6b7db5acec58c1b18c2"
+  },
+  "LIBRARY/PATCH077.MV0": {
+   "size": 15906,
+   "md5": "fb395bfe0ce12436806247f8586b19a5",
+   "sha256": "df36e2f672a462192ce7e0cc288689cdbe6dfaecbacc8ec8134a58add2a848ea"
+  },
+  "LIBRARY/PATCH078.MV0": {
+   "size": 15906,
+   "md5": "9dd404b0f099b2fa7d3bd106c6f305b4",
+   "sha256": "72f571c600a92820bd04b9d5eaf564aa7f5e102400c3d8afb5bdeb3a0d325129"
+  },
+  "LIBRARY/PATCH079.MV0": {
+   "size": 15906,
+   "md5": "7638692337db596af28ed78de1f3509f",
+   "sha256": "ab2c50af2b8c169184f2bbb0e50bf00c520620fce0ad7c9760984c83dc973d24"
+  },
+  "LIBRARY/PATCH080.MV0": {
+   "size": 15906,
+   "md5": "9513158f1d0decfd980f8ad5f22aef3c",
+   "sha256": "8ab9bfe5c090bcd233e795d64bc8df260bb2d2e99e69f4d47a880b96b5504313"
+  },
+  "LIBRARY/PATCH081.MV0": {
+   "size": 15906,
+   "md5": "c237c3c1758c239344f955eb5f11492c",
+   "sha256": "6ad65c318eb2ec1b1fa1ff6e445ea6725b733f1495ad8b4c3567a6d060da6d28"
+  },
+  "LIBRARY/PATCH082.MV0": {
+   "size": 15906,
+   "md5": "156f853f122773030bbe01005e777853",
+   "sha256": "dcd804e9210ce3487616e25336813a33ef8c021cf04c3fc530b96285e678ad96"
+  },
+  "LIBRARY/PATCH083.MV0": {
+   "size": 15906,
+   "md5": "fe5d9d16587760579604166038224e75",
+   "sha256": "5921f734488d7bc43ff942565c1688d6818c5b3d0122118fda653d7454d6314e"
+  },
+  "LIBRARY/PATCH084.MV0": {
+   "size": 15906,
+   "md5": "f913766e766c68a77fa68cf0079d158e",
+   "sha256": "8b26c77d424bd0d7699405d1aed7f2d2e60b340229165562aecccbdde211b7b3"
+  },
+  "LIBRARY/PATCH085.MV0": {
+   "size": 15906,
+   "md5": "91e8fd9a6bacb932e5a6286d14f82610",
+   "sha256": "d30c9cc37784a752087f3f56800e183ffbcdd290cc1af74b6ad589aa3aad09ad"
+  },
+  "LIBRARY/PATCH086.MV0": {
+   "size": 15906,
+   "md5": "8f59ae9a2d63041bfa85fa79856f8fa8",
+   "sha256": "df87f4ac141919810398a137f5a6e0853ed6d03160a6b16e1cb2b81d1c3ca391"
+  },
+  "LIBRARY/PATCH087.MV0": {
+   "size": 15906,
+   "md5": "d90285ecb8e369b6c8206bb91846d321",
+   "sha256": "120e3af81a327538be3cb60f24082166ba29a7f568e02e0b2c19c796ca4bc9c4"
+  },
+  "LIBRARY/PATCH088.MV0": {
+   "size": 15906,
+   "md5": "3e6502effc884d20f8c67f4a216885fe",
+   "sha256": "2aa3c5993baafc0f3216a176bee0c014d40651c64d553712317d10701eb7e2fe"
+  },
+  "LIBRARY/PATCH089.MV0": {
+   "size": 15906,
+   "md5": "304774bc3f07e89f267f22c2d8840999",
+   "sha256": "e7c4b344b6721b973e744efccce3ff0c62a272d54c349fb8853700eb06aab5ef"
+  },
+  "LIBRARY/PATCH090.MV0": {
+   "size": 15906,
+   "md5": "3bc37949e8929b090bfc54671b6a4725",
+   "sha256": "a4aeccf6221334026f925122b08ed5afaa39dcaccef1f5e1f090b2027bfa2555"
+  },
+  "LIBRARY/PATCH091.MV0": {
+   "size": 15906,
+   "md5": "ba0836fab030295a02142bc60bb6e9c7",
+   "sha256": "aed79a98559adba9334acd5dad3cf268b4e302e5f0731017f2c898f401ec23f7"
+  },
+  "LIBRARY/PATCH092.MV0": {
+   "size": 15906,
+   "md5": "481a5aac8a78dba07da7b81dd2202ac7",
+   "sha256": "19c029423797bc7e820573c1ebc29d1efcd64066f274537eb4a13fbea8e07f3e"
+  },
+  "LIBRARY/PATCH093.MV0": {
+   "size": 15906,
+   "md5": "c43ded94e5ecfe3505a8b65b5019de06",
+   "sha256": "138e87cf9c4665d1721256fc8c472666744bb21c5ee0ddb949bfb5e7d7d5955c"
+  },
+  "LIBRARY/PATCH094.MV0": {
+   "size": 15906,
+   "md5": "814fdc44bd09690b741bd697be060cfd",
+   "sha256": "30a9dc488b2bca927c6bbc99f76ffa8ca8fb88cd3daf189a701dfe9e0647832e"
+  },
+  "LIBRARY/PATCH095.MV0": {
+   "size": 15906,
+   "md5": "90de84cbb4d267a8d850b2df7ab93645",
+   "sha256": "cda9a17e9f1b6cad32e4ade8327ea5a77258317d19ac691e287896fce37f8342"
+  },
+  "LIBRARY/PATCH096.MV0": {
+   "size": 15906,
+   "md5": "2f03fe8643e4764143341cc051ef60d6",
+   "sha256": "527c3f8a6821fde078dfb66d2dfb699eaf0553776e6e6af03189d13b7ab9881c"
+  },
+  "LIBRARY/PATCH097.MV0": {
+   "size": 15906,
+   "md5": "912acc395c2061d01b69f9629e63575e",
+   "sha256": "bbd3b61e68f925a81509a9b64e8134417c71cc9f3e1f83aa4c8818fb5abcbf7c"
+  },
+  "LIBRARY/PATCH098.MV0": {
+   "size": 15906,
+   "md5": "91fa99828152202eb851fdd4cd10477d",
+   "sha256": "36e50f9176a16a2b69d38913c2fa8dc5e75838e2c7ce030e802d5a1b3dce6387"
+  },
+  "LIBRARY/PATCH099.MV0": {
+   "size": 15906,
+   "md5": "b4f2bc70a75bfb573c1a30deca6f941f",
+   "sha256": "5c8c23596df155697fed568ca0451f73e1e70ca302e3c0cc7b756a8a12a17939"
+  },
+  "LIBRARY/PATCH100.MV0": {
+   "size": 15906,
+   "md5": "e1520c5de659fc410422570078e25ff6",
+   "sha256": "6f58efc8a0bbc272f9ea806c08f7522e05d81d61064c5f824de6adefcce34913"
+  },
+  "LIBRARY/PATCH101.MV0": {
+   "size": 15906,
+   "md5": "906867ba6ab2a0b92b5cd0a292fa533b",
+   "sha256": "364eea51088b8f028db32389fd09ec1ae7ceb11a1c83979616f96415101b60b4"
+  },
+  "LIBRARY/PATCH102.MV0": {
+   "size": 15906,
+   "md5": "4e1cc00c65fc70ae135e07a29d21f5d2",
+   "sha256": "1afade7a5cb9043e2b5f516ac40f830f3e3f4bcc51d2ed772b9fb71fc9243936"
+  },
+  "LIBRARY/PATCH103.MV0": {
+   "size": 15906,
+   "md5": "9f228b4f586ae5335d992593ef5d37ad",
+   "sha256": "c5eae4b5948db995f47b93a3301a07622eb40dc2d7b089a99a4ae5d0e7bfcc5e"
+  },
+  "LIBRARY/PATCH104.MV0": {
+   "size": 15906,
+   "md5": "a4e351d9a77c16a3eb607187f5b43553",
+   "sha256": "0986049a0e91359b1df2dd37901c94f61896f04aed01f5fd928e5e3851d9fe3b"
+  },
+  "LIBRARY/PATCH105.MV0": {
+   "size": 15906,
+   "md5": "1b75ce07a0fda5620647f1ababbc5287",
+   "sha256": "8cf1fe74df0bc0213a7922d9de879a8cdd4aeecc2897daa3902968c5a5bfd512"
+  },
+  "LIBRARY/PATCH106.MV0": {
+   "size": 15906,
+   "md5": "06c4d6f1a2f3056ef9623e0d9c5178cc",
+   "sha256": "f2681e9ce1f3a074af7361db8914e97f8feba76fc86c049578420869826bc9d3"
+  },
+  "LIBRARY/PATCH107.MV0": {
+   "size": 15906,
+   "md5": "6cf5b38f727413681f4e40775cb6bcd7",
+   "sha256": "ee8ad6e2cf9f5742f63cb51df7427e7655437ad20c65a022a45939c311bb246e"
+  },
+  "LIBRARY/PATCH108.MV0": {
+   "size": 15906,
+   "md5": "80fa3b6f2737a7978093aab63a81baf1",
+   "sha256": "282ba943f88bb2bcf8656a5f479deb45a3a83b728ba143793a03041f76f3b7f6"
+  },
+  "LIBRARY/PATCH109.MV0": {
+   "size": 15906,
+   "md5": "155b2cff576ac73482861276ec5875a9",
+   "sha256": "7936bbbf7a94ae17985484c5dbb8d39cf30e3ef7dfc1d9f893829fa252bf2d9f"
+  },
+  "LIBRARY/PATCH110.MV0": {
+   "size": 15906,
+   "md5": "b96901de75f6df14477a8211bd0cb86e",
+   "sha256": "ddb1ef34f439e461c0bd05bc13016c359e97abb29477cadc7d36325dc3eb927f"
+  },
+  "LIBRARY/PATCH111.MV0": {
+   "size": 15906,
+   "md5": "593baa304d361342fb5dd62199a352d4",
+   "sha256": "57e3c427954845dfc2c823ec7f26807a987f5d84c42d929f33423e70471de827"
+  },
+  "LIBRARY/PATCH112.MV0": {
+   "size": 15906,
+   "md5": "d61a196a33dd09aa59fbd3df72870e91",
+   "sha256": "326683c51c18a3010dd17abb06a2bcaf5eaf3e8278a5125a31f7aabe83b50562"
+  },
+  "LIBRARY/PATCH113.MV0": {
+   "size": 15906,
+   "md5": "a0332f8eaf5b01585eb161190d313f3d",
+   "sha256": "b2083ea15d4eb9d8202ab65c1084ffba47b70c0519ba3c5beaa8a10eed489ea0"
+  },
+  "LIBRARY/PATCH114.MV0": {
+   "size": 15906,
+   "md5": "4289bf22c88d1814d939a151b4d3ed3a",
+   "sha256": "6a7fa7fecdd9d806f712dbbd14bfb937afe784f19f22f6b9f22296b20415a391"
+  },
+  "LIBRARY/PATCH115.MV0": {
+   "size": 15906,
+   "md5": "9712a8a1fd105c0e9caa0c446c17a23e",
+   "sha256": "e14daea66e142e4b44c47d641eac45c192d7aefce7eca4872bada3d7796542e2"
+  },
+  "LIBRARY/PATCH116.MV0": {
+   "size": 15906,
+   "md5": "cf73a5fe324d7d17ebb8fe5b91414596",
+   "sha256": "055cd19272fe408f398440e70bae9d32981be9d092ff5c55e3361476d2d92d67"
+  },
+  "LIBRARY/PATCH117.MV0": {
+   "size": 15906,
+   "md5": "70a197ecf3ae1cc95784086305ed13fb",
+   "sha256": "89790657493904b13ca7ebc8d21224b5e791859ef77801a0a6574c17c1482c27"
+  },
+  "LIBRARY/PATCH118.MV0": {
+   "size": 15906,
+   "md5": "55ceb02d2dc6bcf3521436151e3b6b2c",
+   "sha256": "4b9ab231456731f7d8c4ac9e013fb7ade4502cf47fb85e6851a7d225916a0168"
+  },
+  "LIBRARY/PATCH119.MV0": {
+   "size": 15906,
+   "md5": "231caafd7ea18082f755d0d2789035b9",
+   "sha256": "2fb25a5a443d05313cee6807a8d4215cc29d73d9a91c25c23772c054c2b70c3c"
+  },
+  "LIBRARY/PATCH120.MV0": {
+   "size": 15906,
+   "md5": "7d6dad52d2173ffa7086d0a602bf62d2",
+   "sha256": "19b27b9d0a891f571e73c211f8bc7e15ad55ba26450fbf1ff8af14674510058b"
+  },
+  "LIBRARY/PATCH121.MV0": {
+   "size": 15906,
+   "md5": "f87390df4e17a3a9aa4ff7debfcb2e64",
+   "sha256": "2efb8d61d9f657bc22f6596899a054ea834d54feaba04c50189de9ab5d68ae01"
+  },
+  "LIBRARY/PATCH122.MV0": {
+   "size": 15906,
+   "md5": "2a56bb0fee05c77d7bd08effb5281c46",
+   "sha256": "01ca134b90f37de3de18da0956fd205ba563516687c95756b1f1c056d6634b3e"
+  },
+  "LIBRARY/PATCH123.MV0": {
+   "size": 15906,
+   "md5": "3be7652a8f136878b351c9c3afece20b",
+   "sha256": "c87f555aa295e80ecf79fa16fe0c201691b978624a81a81f2834319eac529f0c"
+  },
+  "LIBRARY/PATCH124.MV0": {
+   "size": 15906,
+   "md5": "43046292b9811cbc8deca6e5b74b7569",
+   "sha256": "8aed23440610072fe48f8b00611b0efa09610339ad78d1f9c2aa603d859466d1"
+  },
+  "LIBRARY/PATCH125.MV0": {
+   "size": 15906,
+   "md5": "0aa79ac2b4727809ca826b25edaec1e8",
+   "sha256": "4d59567ba8d20ee955aa1821658840765822681a7ac620ffd5ed4337cdc05509"
+  },
+  "LIBRARY/PATCH126.MV0": {
+   "size": 15906,
+   "md5": "f86eb0043dc590d707247a41da7fbf5b",
+   "sha256": "13f5f64d6fb4484a2fbe5f275ca06c34b483758221687fdf73a081f906ddb5d5"
+  },
+  "LIBRARY/PATCH127.MV0": {
+   "size": 15906,
+   "md5": "e9bb8fd3ed5bff2cd5c2d84b5238666a",
+   "sha256": "1cfe2a2d74d9780d140b92fdd6764755a64c7397d6920466c339b8b79e248aae"
+  },
+  "LIBRARY/PATCH128.MV0": {
+   "size": 15906,
+   "md5": "70df7ccb7e639a55bb018cf1e532a1a1",
+   "sha256": "d858570e93365c18d586c755557ffbe8d90b69410e85e2ad4eb7796e72d5164a"
+  },
+  "LIBRARY/REVERB__.MV0": {
+   "size": 3536,
+   "md5": "cc13c09525212218a85f3212be02474f",
+   "sha256": "47637a6715341c9ee6a800aaf07c00e0d7184e5101a9ccc34723031ef2a157c7"
+  },
+  "PATTERN_.MV0": {
+   "size": 828,
+   "md5": "007c315d3effc252ae1e82a1ae9499bd",
+   "sha256": "ea3c2233d2988556daee1b63298bbc865ecda26d839ea42f4de1af9df02a3121"
+  },
+  "PHRSLIST.MV0": {
+   "size": 25864,
+   "md5": "bcda37c5662b3eb262ea1e612017291f",
+   "sha256": "02724eab1e29c76195495a336d79e0f5773a9fee047ac4eee34ca7868af8e648"
+  },
+  "PROJECT_.MV0": {
+   "size": 91,
+   "md5": "3567d8ac7d56f9eae792bb363b9129ec",
+   "sha256": "7a848891b330bac4b869b3370e6b0213b7fe15ec95d1750d397994b130a03453"
+  },
+  "SAMPLE/SAMPLE__.MV0": {
+   "size": 10605670,
+   "md5": "a34740c9882e5f433f9f96bec16aa941",
+   "sha256": "8314483b5adb8e5116dfbb63e224ca1cd1f322245416b841271f41f0e7ad048c"
+  },
+  "SONG01.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG01.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG01.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG01.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG01.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "94d1346b78563af2c79f65c82bc6aa6a",
+   "sha256": "877c932d7b97d3f29ef8cc25e88d6ca9f2f6886fd064cd26fa8c682738e7d2d9"
+  },
+  "SONG01.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG01.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG01.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG01.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG01.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG01.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG01.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG01.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG01.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG01.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG01.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG01.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG01.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG01.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG01.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG01.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG01.MV0/SEQUENCE.MV0": {
+   "size": 915,
+   "md5": "0270ff3af897e49bc4a3e567ab8c5f96",
+   "sha256": "9f7313a3af5fee7c491d21e3520851a03fcf1b4f9fb462f20adb7518b84fe05b"
+  },
+  "SONG01.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG02.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG02.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG02.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG02.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG02.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG02.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG02.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG02.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG02.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG02.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG02.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG02.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG02.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG02.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG02.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG02.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG02.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG02.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG02.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG02.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG02.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG02.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG02.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG03.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG03.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG03.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG03.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG03.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG03.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG03.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG03.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG03.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG03.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG03.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG03.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG03.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG03.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG03.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG03.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG03.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG03.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG03.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG03.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG03.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG03.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG03.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG04.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG04.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG04.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG04.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG04.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG04.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG04.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG04.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG04.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG04.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG04.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG04.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG04.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG04.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG04.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG04.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG04.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG04.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG04.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG04.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG04.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG04.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG04.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG05.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG05.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG05.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG05.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG05.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG05.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG05.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG05.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG05.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG05.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG05.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG05.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG05.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG05.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG05.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG05.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG05.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG05.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG05.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG05.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG05.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG05.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG05.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG06.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG06.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG06.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG06.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG06.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG06.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG06.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG06.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG06.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG06.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG06.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG06.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG06.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG06.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG06.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG06.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG06.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG06.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG06.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG06.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG06.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG06.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG06.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG07.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG07.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG07.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG07.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG07.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG07.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG07.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG07.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG07.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG07.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG07.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG07.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG07.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG07.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG07.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG07.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG07.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG07.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG07.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG07.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG07.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG07.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG07.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG08.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG08.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG08.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG08.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG08.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG08.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG08.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG08.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG08.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG08.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG08.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG08.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG08.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG08.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG08.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG08.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG08.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG08.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG08.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG08.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG08.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG08.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG08.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG09.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG09.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG09.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG09.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG09.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG09.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG09.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG09.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG09.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG09.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG09.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG09.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG09.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG09.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG09.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG09.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG09.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG09.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG09.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG09.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG09.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG09.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG09.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG10.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG10.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG10.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG10.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG10.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG10.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG10.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG10.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG10.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG10.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG10.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG10.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG10.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG10.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG10.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG10.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG10.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG10.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG10.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG10.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG10.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG10.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG10.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG11.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG11.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG11.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG11.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG11.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG11.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG11.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG11.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG11.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG11.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG11.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG11.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG11.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG11.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG11.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG11.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG11.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG11.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG11.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG11.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG11.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG11.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG11.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG12.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG12.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG12.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG12.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG12.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG12.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG12.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG12.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG12.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG12.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG12.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG12.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG12.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG12.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG12.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG12.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG12.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG12.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG12.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG12.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG12.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG12.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG12.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG13.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG13.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG13.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG13.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG13.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG13.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG13.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG13.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG13.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG13.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG13.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG13.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG13.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG13.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG13.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG13.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG13.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG13.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG13.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG13.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG13.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG13.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG13.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG14.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG14.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG14.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG14.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG14.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG14.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG14.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG14.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG14.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG14.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG14.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG14.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG14.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG14.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG14.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG14.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG14.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG14.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG14.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG14.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG14.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG14.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG14.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG15.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG15.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG15.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG15.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG15.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG15.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG15.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG15.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG15.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG15.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG15.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG15.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG15.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG15.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG15.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG15.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG15.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG15.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG15.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG15.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG15.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG15.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG15.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  },
+  "SONG16.MV0/CHORUS__.MV0": {
+   "size": 106,
+   "md5": "cce083d0c4069afae3af0e51f7b5ecf1",
+   "sha256": "83b3783c0440fb471e0da392914290347fd1abce5144df318a25a66441443a78"
+  },
+  "SONG16.MV0/MFX_____.MV0": {
+   "size": 304,
+   "md5": "51456600017d71d0968463ec56edcbb4",
+   "sha256": "01ff40ed7d13933bb74cac6b17c880f8a9bbe604b2213a8dbe0e44fbc9d50902"
+  },
+  "SONG16.MV0/MIXER___.MV0": {
+   "size": 74,
+   "md5": "d952f374148c635d2501bdf4019c41a4",
+   "sha256": "41ea337ad7ca2ba3499c91b60e184889743681c0b2be371d424c651aa209b1f3"
+  },
+  "SONG16.MV0/MTK_____.MV0": {
+   "size": 126,
+   "md5": "544548f0720ba04f831e815c32eec6a1",
+   "sha256": "4f5876d6501b0f62b66f9c94b1abc8df9e141b9cf15a0312b05b55946d571a08"
+  },
+  "SONG16.MV0/PATCH001.MV0": {
+   "size": 15906,
+   "md5": "c4be3398cddd04d94b4bb098f3c921d1",
+   "sha256": "dc6d7e8af4681502962a0c0e9e3cc276464b813ad0f32dc13d7a44cc30f862e6"
+  },
+  "SONG16.MV0/PATCH002.MV0": {
+   "size": 15906,
+   "md5": "57f2cbf7a1fd8f7dac399e26d2fdd412",
+   "sha256": "cced7dce1e00dd2edabdb04f2432e6a9ff31939182dfa2971002bc20cabc87cd"
+  },
+  "SONG16.MV0/PATCH003.MV0": {
+   "size": 15906,
+   "md5": "2fd21bdd52fa57e7c7259f1b03022706",
+   "sha256": "95685eb63c5b8e817a7c6091c89a5da3e7f2f0dcb3b572173e73e3bf10a0b43e"
+  },
+  "SONG16.MV0/PATCH004.MV0": {
+   "size": 15906,
+   "md5": "122eeab75bc808e81b80d574ac0987ce",
+   "sha256": "878c665f2e7570608ecf97f3b684381bb2a07748ffcf8e59953f67724b49b3fe"
+  },
+  "SONG16.MV0/PATCH005.MV0": {
+   "size": 15906,
+   "md5": "f003d57d3dbc8430a56982636d930b5e",
+   "sha256": "dd869c02c2061eff798fc6e6f5bc7779abbe54e54e1f9e9fb4d8653a2ad9781c"
+  },
+  "SONG16.MV0/PATCH006.MV0": {
+   "size": 15906,
+   "md5": "f2d807d4865c6b8d5c58d26051dc55a4",
+   "sha256": "aa73ce7d3da17b556f9c920488be05392e0197df72a06db2f89d0ef28e4f6916"
+  },
+  "SONG16.MV0/PATCH007.MV0": {
+   "size": 15906,
+   "md5": "7a6a8459d94e2dd6723fb7381961e1ad",
+   "sha256": "cbc4469dda40f4a9d7d34d59e12a95a56cd2bf501d63f1d374192c9f044b723f"
+  },
+  "SONG16.MV0/PATCH008.MV0": {
+   "size": 15906,
+   "md5": "eca2c3766f959b8828816b4b3fb9509f",
+   "sha256": "3efde2816aef69c00d66804cd39699bcbca9230ec548aa0b260ef7dec16ca9b4"
+  },
+  "SONG16.MV0/PATCH009.MV0": {
+   "size": 15906,
+   "md5": "bb171e7309776571188cc1c4cb6ef1f1",
+   "sha256": "6390e3c6ea992078da114f533f8797a3a73b04d038c4065767c85230b83b9449"
+  },
+  "SONG16.MV0/PATCH010.MV0": {
+   "size": 15906,
+   "md5": "fce38ac2eca97ad31831afa83aaff259",
+   "sha256": "45e55715236f37e3be8c781a624ef66ed78a47109962f8e412b3bc3f4c481979"
+  },
+  "SONG16.MV0/PATCH011.MV0": {
+   "size": 15906,
+   "md5": "a95b359a7be6304ce47fb5b4f3f1a14e",
+   "sha256": "178ba2835b87c54d6cc26ba5ced7e00610d2ea018a20930dabff9ca8bd53a27d"
+  },
+  "SONG16.MV0/PATCH012.MV0": {
+   "size": 15906,
+   "md5": "529f51b0b3ae85caa256e758b6a43e34",
+   "sha256": "508584133f54051ad1946596c5c272c0c77ea0dbb4f0a0597f6442feb084dad3"
+  },
+  "SONG16.MV0/PATCH013.MV0": {
+   "size": 15906,
+   "md5": "69631d0421c43a8411adcd1ae22091dd",
+   "sha256": "a53ed49ff609a63f926958827875b788dd63a9a00d3ab8afbfe94e19f9b45e64"
+  },
+  "SONG16.MV0/PATCH014.MV0": {
+   "size": 15906,
+   "md5": "33005448a54009ad3fd1cf10d9ba4a15",
+   "sha256": "d7c42db7b70519a0dc4a25c3f3bc381606cedca529c5bc0719ff72210b2061ca"
+  },
+  "SONG16.MV0/PATCH015.MV0": {
+   "size": 15906,
+   "md5": "1fc74bb1f521dad073f0169fb3fe9b26",
+   "sha256": "6b709b1b8fdeafc7a513b1182a1eb8550f04c25dec0bbd65a38b197b30f52853"
+  },
+  "SONG16.MV0/PATCH016.MV0": {
+   "size": 15906,
+   "md5": "588aa92021983ef878a20decc1b6c5d9",
+   "sha256": "e6dc2c86fb86de0024cea11fdf76d646d5861371e5faf4a771f72641c54a8bda"
+  },
+  "SONG16.MV0/REVERB__.MV0": {
+   "size": 106,
+   "md5": "736a463344278fab2176e2f636e6a053",
+   "sha256": "c8d27cbfc7064889e1e4376dca7a7ff3732c8431340add835c7c5db898003836"
+  },
+  "SONG16.MV0/SEQUENCE.MV0": {
+   "size": 523,
+   "md5": "dfce9213de1386e7d64889351f916ab8",
+   "sha256": "3a1d93e715a29f7a4946abe869b177065b8e9adf371bdad0f467ad8ecf620aea"
+  },
+  "SONG16.MV0/SONGPRM_.MV0": {
+   "size": 1175,
+   "md5": "1bbdf5ff6e0b412a5ad5afb7d321d777",
+   "sha256": "ca951622f025511a38478724057e8a22843c720c7f4ebf84b0326b9f0a561b9e"
+  }
+ }
+}

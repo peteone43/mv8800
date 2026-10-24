@@ -1,2 +1,5 @@
 __pycache__/
 MV8800_cachehit_exp*_output/
+*.pyc
+.DS_Store
+Thumbs.db

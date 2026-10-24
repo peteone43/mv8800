@@ -1,0 +1,7 @@
+*.PRG binary
+*.prg binary
+*.bin binary
+*.zip binary
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
